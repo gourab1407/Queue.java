@@ -38,7 +38,35 @@ The project contains two classes:
 - **Queue**: Defines the queue operations and logic.
 - **QueueImp (Main class)**: Provides the user interface to perform operations.
 
+🎯 Concepts Used
+
+Arrays
+
+Classes & Objects
+
+Scanner class for input
+
+Menu-driven program using switch-case
+
+Queue logic with front and rear pointers
+
+
+
 ---
+
+
+---
+
+✨ Connect with me
+Instagram: https://www.instagram.com/gourab14_?igsh=dW13cTNqdWl3aHlz
+LinkedIn: https://www.linkedin.com/in/gourab-tikadar-16a75032b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+⭐ If you found this helpful, give it a star!
+
+
+
 
 ## 📝 How to Run
 
@@ -85,39 +113,4 @@ Queue elements:
 10
 
 
----
-
-🎯 Concepts Used
-
-Arrays
-
-Classes & Objects
-
-Scanner class for input
-
-Menu-driven program using switch-case
-
-Queue logic with front and rear pointers
-
-
-
----
-
-
----
-
-✨ Connect with me
-Instagram: https://www.instagram.com/gourab14_?igsh=dW13cTNqdWl3aHlz
-LinkedIn: https://www.linkedin.com/in/gourab-tikadar-16a75032b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
----
-
-⭐ If you found this helpful, give it a star!
-
----
-
-### ⚠️ Replace:
-
-- `yourusername` with your GitHub username  
-- `yourlinkedin` with your LinkedIn profile ID
 
